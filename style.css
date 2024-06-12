@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+background: #000;
+}
+
+.container {
+    background-color: white;
+    margin: 0 auto;
+    position: relative;
+}
+h1{
+    font-size: 30px;
+}
+button {
+    cursor: pointer;
+    color: white;
+    position: absolute;
+}
+p{
+    font-style: 80px;
+}
+#message {
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+    margin-top: 20px;
+    position: absolute;
+}
